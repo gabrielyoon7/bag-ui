@@ -10,7 +10,8 @@
   },
   "plugins": ["react"],
   "rules": {
+    "@typescript-eslint/comma-dangle": "off", // 수정됨
     "comma-dangle": "off", // 수정됨
-    "@typescript-eslint/comma-dangle": "off" // 수정됨
+    "object-curly-newline": "off" // 수정됨
   }
 }
