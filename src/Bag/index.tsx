@@ -1,3 +1,2 @@
-import Bag from './Bag';
-
-export default Bag;
+/* eslint-disable import/prefer-default-export */
+export { Bag } from './Bag';

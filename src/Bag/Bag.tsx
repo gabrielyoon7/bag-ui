@@ -12,5 +12,5 @@ function Bag({ children }: BagProps) {
     </div>
   );
 }
-
+export { Bag };
 export default Bag;

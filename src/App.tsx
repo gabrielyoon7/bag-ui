@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Bag from './Bag';
+import { Bag } from './Bag';
 
 function App() {
   return (
