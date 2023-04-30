@@ -9,5 +9,8 @@
     "project": "./tsconfig.json" // 수정됨
   },
   "plugins": ["react"],
-  "rules": {}
+  "rules": {
+    "comma-dangle": "off", // 수정됨
+    "@typescript-eslint/comma-dangle": "off" // 수정됨
+  }
 }
